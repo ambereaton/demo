@@ -2,4 +2,4 @@ Type something else. Just type something. This is my first file.
 
 Here is more stuff.
 
-This is bound to cause trouble again! 
+I hope this isn't much of a problem again.
